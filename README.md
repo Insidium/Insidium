@@ -1,8 +1,8 @@
-![Banner with computer and memoji of Ryan Challen](./RyanBanner.png)
+![Banner with computer and memoji of Ryan Challen](https://res.cloudinary.com/dkgnajyr2/image/upload/v1595976934/RyanBanner_rfxuml.png)
 
 ### Hi everyone! 👋
 
-#### I'm Ryan Challen. I'm a Software Developer in Brisbane, Australia. 💻
+### I'm Ryan Challen. I'm a Software Developer in Brisbane, Australia. 💻
 
 After recognising that I could turn my "geekiness" 🤓 and passion for technology into a career, I jumped head first into web and software development and I have never been happier. Technology has immeasurable potential for connecting, empowering and improving our world - and I am so proud to be a part of that! 🙌
 
