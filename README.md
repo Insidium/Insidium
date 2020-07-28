@@ -1,6 +1,6 @@
 ![Banner with computer and memoji of Ryan Challen](https://res.cloudinary.com/dkgnajyr2/image/upload/v1595976934/RyanBanner_rfxuml.png)
 
-### Hi everyone! 👋
+## Hi everyone! 👋
 
 ### I'm Ryan Challen. I'm a Software Developer in Brisbane, Australia. 💻
 
