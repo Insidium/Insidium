@@ -17,4 +17,4 @@ Here are a few details about me:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love bees but I'm terrified of wasps!
 
-Thanks for stopping by! ✌️
+Thanks for stopping by everyone! ✌️
